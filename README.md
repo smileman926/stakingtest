@@ -26,5 +26,3 @@ to run Moch and Chai testing suite
 npm run start
 ```
 
-![Dapp-1](./project-screenshot/Dapp-1.png)
-![Dapp-2](./project-screenshot/Dapp-2.png)
